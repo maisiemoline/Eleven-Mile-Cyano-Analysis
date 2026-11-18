@@ -1,0 +1,21 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# R / RStudio Environment
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# GDAL / GIS auxiliary metadata
+*.aux.xml
+
+# Scratch & Temporary
+scratch/
+*.tmp
